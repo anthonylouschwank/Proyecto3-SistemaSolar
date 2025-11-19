@@ -18,3 +18,9 @@ Para ejecutar el programa:
 
 ```bash
 cargo run
+```
+
+## Muestra
+
+https://youtu.be/h3B-IWEkmLA
+
